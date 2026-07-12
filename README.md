@@ -1,6 +1,6 @@
 <h1 align="center">Switch-Reasoner: Learn When to Think in Multitask Mixtures via Reinforcement Learning</h1>
 
-<p align="center"><em><strong>Yiyang Fang, Pei Fu, Jinjie Li, Jian Liang, Wenke Huang, Ruijie Luo, Shaojie Zhang, Jian Luan, Yi R. (May) Fung, Mang Ye</strong></em></p>
+<p align="center"><em><strong>Yiyang Fang, Pei Fu, Jinjie Li, Jian Liang, Wenke Huang, Ruijie Luo, Shaojie Zhang, Jian Luan, Yi R. Fung, Mang Ye</strong></em></p>
 
 <p align="center">
 <a href="https://arxiv.org/abs/2607.08572"><img src="https://img.shields.io/badge/arXiv-2607.08572-b31b1b.svg" alt="arXiv Badge"></a>
