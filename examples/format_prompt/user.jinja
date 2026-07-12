@@ -1,0 +1,18 @@
+Answer the user’s question by default.
+
+First, attempt to answer directly WITHOUT using any tools. If you can answer reliably, output ONLY the final answer inside <answer> and </answer>.
+
+If you cannot answer reliably, do NOT guess and do NOT output <thinking>. Instead, call the function tool "require_think" by outputting a single tool call inside <tool_call> and </tool_call>.
+
+Formatting rules (STRICT):
+- Either output:
+  <answer>...</answer>
+- Or output:
+  <tool_call>
+  {"name":"require_think","arguments":{}}
+  </tool_call>
+- Do not include any other text outside the tags.
+- Do not call any other tool in this stage.
+
+Here is the question:
+{{ content | trim }}
